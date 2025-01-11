@@ -21,7 +21,7 @@ git commit -m"Added xyz.py"
 git push origin main
 ```
 
-* They other interesting pair of command is the following, which looks so movie-like hacker who is using these techy skills against some evil big corp.
+* Another interesting pair of command is the following, which looks so movie-like hacker who is using these techy skills against some evil big corp.
 ```
 pwd
 ls
