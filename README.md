@@ -14,7 +14,7 @@
 
 ## Favorite Command
 Here are some of my  favorite commands I've learned so far:
-* Set of these 3 commands, which have a good analogy to shopping process
+* Set of these 3 commands, which have a good analogy to shopping process, i.e., to add, commit and push the changes in the file respectively
 ```
 git add .
 git commit -m"Added xyz.py"
@@ -54,3 +54,7 @@ These look so simple but tell you where you are and the files in it!!
       - **Due Feb 14 at 11:59pm**
       - *100 points possible.*
 
+
+---
+
+*Document created with <3 by Ananya Sharma.*
