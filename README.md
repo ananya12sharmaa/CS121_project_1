@@ -30,27 +30,27 @@ These look so simple but tell you where you are and the files in it!!
 
 ## Projects of this Class are:
 - [x] ### Assignment 1  :tada:
-      - (lab) Linux, vim, and git\
-      - Due Jan 10 at 11:59pm\
-      - 100 points possible.
+      - (lab) Linux, vim, and git
+      - **Due Jan 10 at 11:59pm**
+      - *100 points possible.*
 - [ ] ### Assignment 2
       (lab) Bubbles and Pointers
-      - Due Jan 17 at 11:59pm
-      - 100 points possible.
+      - **Due Jan 17 at 11:59pm**
+      - *100 points possible.*
 - [ ] ### Assignment 3
       (lab) procedural horse race
-      - Due Jan 24 at 11:59pm
-      - 100 points possible.
+      - **Due Jan 24 at 11:59pm**
+      - *100 points possible.*
 - [ ] ### Assignment 4
       (lab) OOP horse race
-      - Due Jan 31 at 11:59pm
-      - 100 points possible.
+      - **Due Jan 31 at 11:59pm**
+      - *100 points possible.*
 - [ ] ### Assignment 5
       (lab) Heap of students part 1
-      - Due Feb 7 at 11:59pm
-      - 100 points possible.
+      - **Due Feb 7 at 11:59pm**
+      - *100 points possible.*
 - [ ] ### Assignment 6
-      * (lab) Heap of students part 2
-      * Due Feb 14 at 11:59pm
-      * 100 points possible.
+      - (lab) Heap of students part 2
+      - **Due Feb 14 at 11:59pm**
+      - *100 points possible.*
 
