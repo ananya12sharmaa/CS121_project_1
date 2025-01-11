@@ -38,19 +38,19 @@ These look so simple but tell you where you are and the files in it!!
 - [ ] ### Assignment 2
       (lab) Bubbles and Pointers
       - Due Jan 17 at 11:59pm
-      - 100 points possible.
+      - 100 points possible. <br/>
 - [ ] ### Assignment 3
       (lab) procedural horse race
       - Due Jan 24 at 11:59pm
-      - 100 points possible.
+      - 100 points possible. <br/>
 - [ ] ### Assignment 4
       (lab) OOP horse race
       - Due Jan 31 at 11:59pm
-      - 100 points possible.
+      - 100 points possible. <br/>
 - [ ] ### Assignment 5
       (lab) Heap of students part 1
       - Due Feb 7 at 11:59pm
-      - 100 points possible.
+      - 100 points possible. <br/>
 - [ ] ### Assignment 6
       * (lab) Heap of students part 2
       * Due Feb 14 at 11:59pm
