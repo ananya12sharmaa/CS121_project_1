@@ -30,9 +30,11 @@ These look so simple but tell you where you are and the files in it!!
 
 ## Projects of this Class are:
 - [x] ### Assignment 1  :tada:
-      (lab) Linux, vim, and git
-      -Due Jan 10 at 11:59pm
-      -100 points possible.
+      - (lab) Linux, vim, and git
+      
+      - Due Jan 10 at 11:59pm
+      
+      - 100 points possible.
 - [ ] ### Assignment 2
       (lab) Bubbles and Pointers
       - Due Jan 17 at 11:59pm
